@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/admin" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/AdminController.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/BaseController.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/EmployeeSessionController.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/OrganizationController.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/PagesController.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/RegistrationController.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/frontend" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/frontend/js/jquery.nameBadges.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/allemployee.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/emails/verify.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/emails/verify_users.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/departments.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/edit.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/editdept.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/employee.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/employeesheet.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/authdefault.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/default.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/empdefault.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/partials" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/organization.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/registration" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/sessions" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/showdepartments.blade.php" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/resources/views/timesheet.blade.php" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

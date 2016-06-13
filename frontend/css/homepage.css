@@ -1,0 +1,31 @@
+
+#headerwrap {
+   /* background-color: #34495e;*/
+    background-color:#E8E8E8;
+        /* padding-top: 60px;*/
+    padding-bottom: 60px;
+    margin-top:-30px;
+}
+
+#headerwrap h1 {
+   margin-top: 30px;
+    color: white;
+    font-size: 70px;
+
+}
+
+#headerwrap h3 {
+    color: white;
+    font-size: 30px;
+}
+
+#headerwrap h5 {
+    color: white;
+    font-weight: 700;
+    text-align: left;
+}
+
+#headerwrap p {
+    text-align: left;
+    color: white
+}

@@ -1,0 +1,32 @@
+/*footer*/
+#footerwrap {
+    /*margin-top:120px;*/
+    background-color: #2f2f2f;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    text-align: left;
+}
+
+#footerwrap h3 {
+    font-size: 20px;
+    color: white;
+}
+
+#footerwrap p {
+    color: white;
+    font-size: 16px;
+}
+
+/* Copyright Wrap */
+
+#c {
+    background: #222222;
+    padding-top: 15px;
+    text-align: right;
+}
+
+#c p {
+    color: white
+}
+
